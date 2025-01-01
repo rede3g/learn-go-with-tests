@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+// go install golang.org/x/pkgsite/cmd/pkgsite@latest
+// pkgsite -open .
 const (
 	spanish            = "Spanish"
 	french             = "French"
